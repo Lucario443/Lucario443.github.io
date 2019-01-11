@@ -16,7 +16,7 @@ _G["ffao"] = _G["ffao"] or false -- Free For All Override
 _G["load_time"] = tick()wait()
 if game:GetService[[Players]]["LocalPlayer"]:GetRankInGroup(0x45ADFD) >= 0x89 then -- WhiteList
     print[[User is buyer]]
-    local scr = game:HttpGet[[https://raw.githubusercontent.com/Lucario443/Lucario443.github.io/master/code.lua]]
+    local scr = game:HttpGet[[http://raw.githubusercontent.com/Lucario443/Lucario443.github.io/master/code.lua]]
     wait(1 / 3)
     if (scr ~= nil) and scr:find[[COUNTERPEPSI]] then
         loadstring(scr)[[Do Not Redistribute]]
