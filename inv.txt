@@ -1,4 +1,4 @@
-Skin | Qty | Value
+Skin | Qty | Value | https://www.roblox.com/asset/?id=2666307469
 "AK47 | Ace" | x5 | 60 R$(15)
 "AK47 | Bloodboom" | x2 | 200 R$(50)
 "AK47 | Clown" | x1 | 30 R$(7)
